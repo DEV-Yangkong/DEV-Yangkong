@@ -22,14 +22,22 @@
 ## STACKS
 
 <br/>
+<div align=center>
 
-[![Yangkong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Yangkong&layout=donut&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+  [![Yangkong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Yangkong&layout=donut&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <br/>
 
-💗 The stacks I frequently use
+<div align=center>
+The stacks I frequently use💗
+</div>
 
-<div>
+
+<br/>
+
+<div align=center>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
